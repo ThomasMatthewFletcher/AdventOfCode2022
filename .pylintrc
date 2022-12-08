@@ -5,3 +5,7 @@ disable=
     missing-function-docstring,
     missing-module-docstring,
     duplicate-code,
+
+[FORMAT]
+
+good-names=i,j,k,x,y,dx,dy,_
