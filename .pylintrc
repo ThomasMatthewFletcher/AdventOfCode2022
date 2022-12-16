@@ -9,3 +9,4 @@ disable=
 [FORMAT]
 
 good-names=i,j,k,x,y,dx,dy,_
+max-line-length=180
