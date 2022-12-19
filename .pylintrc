@@ -8,5 +8,5 @@ disable=
 
 [FORMAT]
 
-good-names=i,j,k,x,y,dx,dy,_
+good-names=i,j,k,x,y,dx,dy,n,_
 max-line-length=180
